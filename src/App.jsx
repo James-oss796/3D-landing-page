@@ -1,12 +1,12 @@
-import { Head } from "./Components/Head"
+
 import NavBar from "./Components/NavBar"
-import Test from "./Components/Test"
-import React from "react"
+import Hero from "./Components/Hero"
 const App = () => {
   return (
 
    <main>
     <NavBar />
+    <Hero />
    </main>
   
  
